@@ -1,19 +1,14 @@
 # Grimm's Fairy Tales
 
-<!--
-This edition of **Grimm's Fairy Tales** collects a few of the shorter stories that work well for young children.
-The original text and illustrations are in the public domain and have been lightly formatted for modern readers.
--->
 
 ![Cover image](images/goose-girl.jpg)
 
-These tales are suitable for readers around **6 years old**.  Below you'll find three of the brothers Grimm's most popular stories:
+Below are three of the Brothers Grimm's most popular stories:
 
 1. **The Frog Prince**
 2. **Little Red‑Cap**
 3. **Rapunzel**
 
-Each story is presented in full, with minimal alteration.  A small illustration is included with *Rapunzel*.
 
 ---
 
